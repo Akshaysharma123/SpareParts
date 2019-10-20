@@ -48,14 +48,12 @@
                 <div class="col-md-6">
                     <div class="pl-30-md mt-30">
                         <div class="section-heading heading-about">
-                            <h3>Compaines Name</h3>
+                            <h3> Rishabh Traders </h3>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                            ullamco laboris nisi ut aliquip ex ea commodo consequatLorem ipsum dolor sit amet,
-                            consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                            ullamco laboris nisi ut aliquip ex ea commodo consequat..</p>
+                        <p>Rishabh Traders is one of the Central India's largest independent distributor of heavy machinery parts & diesel engine components. </p>
+                        <p>Rishabh Traders is importing from almost of parts of world like US, Germany, Italy, Denmark, Japan, and many more..</p>
+                    
+                    <div class="mt-25"> <a href="#" class="primary-button button-sm mb-15-xs">Read More</a> </div>
 
                         <!-- <div class="section-heading-line-left"></div> -->
                         <div class="text-content-big mt-20">
@@ -536,22 +534,22 @@
 
     <div class="section-clients border-top">
         <div class="container">
-          <div class="partners_section">
-            <div class="title">
-                <a href="#" style="color: #fff;">Distributing only the
-                    <strong >finest brands of spares</strong>
-                </a>
-            </div>
-            <div class="owl-carousel owl-theme clients" id="clients">
-                <div class="item"> <img src="img/partners/partner1.png" alt="partner-image"> </div>
-                <div class="item"> <img src="img/partners/partner2.png" alt="partner-image"> </div>
-                <div class="item"> <img src="img/partners/partner3.png" alt="partner-image"> </div>
-                <div class="item"> <img src="img/partners/partner4.png" alt="partner-image"> </div>
-                <div class="item"> <img src="img/partners/partner5.png" alt="partner-image"> </div>
-                <div class="item"> <img src="img/partners/partner6.png" alt="partner-image"> </div>
-            </div>
+            <div class="partners_section">
+                <div class="title">
+                    <a href="#" style="color: #fff;">Distributing only the
+                        <strong>finest brands of spares</strong>
+                    </a>
+                </div>
+                <div class="owl-carousel owl-theme clients" id="clients">
+                    <div class="item"> <img src="img/partners/partner1.png" alt="partner-image"> </div>
+                    <div class="item"> <img src="img/partners/partner2.png" alt="partner-image"> </div>
+                    <div class="item"> <img src="img/partners/partner3.png" alt="partner-image"> </div>
+                    <div class="item"> <img src="img/partners/partner4.png" alt="partner-image"> </div>
+                    <div class="item"> <img src="img/partners/partner5.png" alt="partner-image"> </div>
+                    <div class="item"> <img src="img/partners/partner6.png" alt="partner-image"> </div>
+                </div>
 
-        </div>
+            </div>
         </div>
     </div>
 </section>

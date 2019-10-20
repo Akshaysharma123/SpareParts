@@ -15,7 +15,7 @@
                 <a href="/abouts">ABOUT US</a>
             </li>
             <li class="nav-item {{ request()->is('shop') ? 'active' : '' }}">
-                <a href="/shop">PRODUCTS</a>
+                <a href="/products">PRODUCTS</a>
                 <ul class="nav-dropdown">
                     <li>
                         <a href="about.html">About Us 01</a>
@@ -82,11 +82,11 @@
 
 
             </li>
+            <li class="nav-item {{ request()->is('parts') ? 'active' : '' }}">
+                <a href="/business">BUSINESS PARTNERS</a>
+            </li>
             <li class="nav-item {{ request()->is('contact') ? 'active' : '' }}">
                 <a href="/contact">CONTACT</a>
-            </li>
-            <li class="nav-item {{ request()->is('parts') ? 'active' : '' }}">
-                <a href="/parts">SEARCH BY PART</a>
             </li>
         </ul>
     </div>

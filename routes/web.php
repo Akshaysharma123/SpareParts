@@ -19,10 +19,14 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
-Route::get('/shop', function () {
-    return view('shop');
+Route::get('/products', function () {
+    return view('Products');
 });
 
 Route::get('/abouts', function () {
     return view('about');
+});
+
+Route::get('/business', function () {
+    return view('business-logo');
 });

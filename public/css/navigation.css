@@ -1200,10 +1200,13 @@
 /* li.nav-item.active {
   margin-left: 55px;
 } */
-li.nav-item {
+/* li.nav-item {
   margin-left: 40px;
   margin-right: -25px;
-}
+} */
+/* --akshay-- */
+
+
 .megamenu-panel {
   width: 72%;
   padding: 15px;
@@ -1249,4 +1252,12 @@ li.nav-item {
 
 .megamenu-panel.panel-2.nav-submenu {
   margin-left: 205px;
+}
+.nav-menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  float: right;
+  line-height: normal;
+  font-size: 0;
 }

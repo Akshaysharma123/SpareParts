@@ -4,14 +4,14 @@
                 <div class="col-md-9 col-12">
                     <div class="top-bar-welcome">
                         <ul>
-                            <li>Welcome to Professional Consulting Agency</li>
+                            <li>Welcome to RISHABH TRADERS</li>
                         </ul>
                     </div>
                     <div class="top-bar-info">
                         <ul>
-                            <li><i class="fa fa-phone"></i>(+123) 456 7890
+                            <li><i class="fa fa-phone"></i>+91 771 2582646
                             <li>
-                            <li><i class="fa fa-envelope"></i>example@gmail.com
+                            <li><i class="fa fa-envelope"></i>rishabhraipur@gmail.com
                             <li>
                         </ul>
                     </div>

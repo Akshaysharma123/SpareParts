@@ -18,13 +18,26 @@
                 <div class="col-md-6 col-sm-6 col-12">
                     <div class="pr-30-md">
                         <div class="section-heading">
-                            <h4>Consulting Agency for every Business</h4>
+                            <h4>RISHABH <span class="second-heading">TRADERS</span></h4>
                         </div>
                         <div class="section-heading-line-left"></div>
                         <div class="text-content-big mt-20">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                            <p>Rishabh Traders is one of the Central India's largest independent distributor of heavy machinery parts & diesel engine components...
+
+                                Our products are used for excavators,dozers,wheel loaders,motor graders,rock brakers & imported diesel engines. We distribute more then 15000 spares covering over 40 brands to a wide customer base of dealers and end-users in diverse industries....
+
+
+                                Rishabh Traders is importing from almost all the parts of world like US, Germany, Italy, Denmark, Japan,South Korea,China and Middle East....
+
+                                Established since 1999, Rishabh Traders has grown from a small trader of various kinds of spare parts to become a reputable one stop centre .....
+
+                                Over a decade Rishabh Traders is offering widest range of quality products at the most competitive prices. We continually leverage
+                                on new technology to enhance our operations...
+
+                                As a ONE-STOP SOURCE , we are able to offer Customers Variety, Choice, Competive Pricing, Convenience, Fast & Reliable 
+                                Service. You can Rely on Rishabh Traders to be always trusted name in Heavy Machinery & Diesel Engine Parts ...
+
+                            </p>
                         </div>
                         <div class="mt-20">
                             <ul class="primary-list">
